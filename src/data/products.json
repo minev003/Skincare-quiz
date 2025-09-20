@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "title": "Milk Body Cleanser",
+        "description": "Perfect for if you're looking for soft, nourished skin, our moisturizing body washes are made with skin-natural nutrients that work with your skin to replenish moisture. With a light formula, the bubbly lather leaves your skin feeling cleansed and cared for.",
+        "price": 14.00,
+        "image": "MilkBodyCleanser.jpg",
+        "tags": [
+            "soft skin",
+            "moisturizing",
+            "cleansing",
+            "nourished"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Milk Body Lotion",
+        "description": "An ideal body lotion for dry skin, this product is designed to hydrate and soothe, leaving your skin feeling smooth and supple.",
+        "price": 12.00,
+        "image": "MilkBodyLotion.jpg",
+        "tags": [
+            "dry skin",
+            "hydrating",
+            "soothing"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Soothing Body Wash",
+        "description": "A calming body wash with natural extracts to help relax your senses and provide deep hydration to your skin.",
+        "price": 15.50,
+        "image": "SoothingBodyWash.png",
+        "tags": [
+            "relaxing",
+            "calming",
+            "hydrating"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Exfoliating Scrub",
+        "description": "Gently exfoliates and renews skin for a radiant, healthy-looking glow. Infused with natural exfoliants.",
+        "price": 18.00,
+        "image": "/path-to-scrub-image.png",
+        "tags": [
+            "exfoliating",
+            "radiant",
+            "healthy glow"
+        ]
+    }
+]

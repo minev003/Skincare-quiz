@@ -1,0 +1,59 @@
+/* src/styles/StartPage.css */
+
+.start-page-wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* Центриране по вертикала */
+    align-items: center;
+    /* Центриране по хоризонтала */
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.start-content-box {
+    /* Няма нужда от стилове, тъй като съдържанието е директно върху фона */
+    /* Но можем да добавим padding, за да осигурим вътрешно разстояние, ако е нужно */
+    padding: 20px;
+}
+
+.start-heading {
+    font-size: 55px;
+    /* Точен размер от Figma */
+    font-weight: 600;
+    /* SemiBold */
+    color: #FFFFFF;
+    /* Бял цвят на текста */
+    line-height: 1.1;
+    margin-bottom: 10px;
+}
+
+.start-subheading {
+    font-size: 30px;
+    /* Точен размер от Figma */
+    font-weight: 400;
+    /* Regular */
+    color: #FFFFFF;
+    /* Бял цвят на текста */
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+
+.start-button {
+    background-color: #C3EDFF;
+    color: #000000;
+    border: none;
+    padding: 1rem 3rem;
+    font-size: 1rem;
+    font-weight: normal;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.start-button:hover {
+    background-color: #6a96a5;
+}
